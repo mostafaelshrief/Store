@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Mostafa\Downloads\store-master\المخزن\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Alkapony.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BlueHouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dragon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Elprimo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Freash_Fish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Indebtedness.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Indebtedness_Hotel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Indebtedness_Ketchen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Indebtedness_Resturant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Indebtedness_Stuff_Resturant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Indebtedness_yacht.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mirage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Omar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OutSide_Indebtedness.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OutSide_IndetednessFrame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="plante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="purchases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ramez.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SeaView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Shark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Source.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
